@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+.big-button {
+    padding: 20px;
+    background-color: blueviolet;
+    border-radius: 10%;
+}
+
+.test {
+    color: blue;
+}
+
+.button-click {
+    color: yellow;
+}
